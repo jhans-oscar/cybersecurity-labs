@@ -8,7 +8,7 @@ For this level, I needed to keep using the shell I got to open in the previous l
 
 1. Getting a Shell
 
-    In the same MORE error mode, I typed :shell and i get a shell for the level 26 user. 
+    In the same MORE error mode, I typed :set shell? and i can see that we are still running the ShowText shell, so i just change it using :set shell=/bin/bash, then :shell and i get a shell for the level 26 user. 
 
 2. Reading the password file
 
@@ -18,7 +18,7 @@ For this level, I needed to keep using the shell I got to open in the previous l
 
     To get the password for level 27, I executed the bandit27-do script with the following command:
 
-    ./bandit27-do
+    ./bandit27-do cat /etc/bandit_pass/bandit27 
     
     The output of the command is the password for level 27.
 
