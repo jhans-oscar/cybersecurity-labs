@@ -65,3 +65,5 @@ The login shell for the user `bandit26` is not the usual `/bin/bash`. I needed t
 - Terminal pagers and editors can sometimes be used to escape restricted shells.
 - Understanding how login shells and file permissions behave is essential when working in restricted environments.
 
+
+
