@@ -1,10 +1,10 @@
-## Over the wire: Bandit Level 27 (Ongoing)
+# Over the wire: Bandit Level 27 (Ongoing)
 
 **Goal:** Retrieve the password for level 28.
 
 This level is asking me to find the password for the next level, level 28, using git.
 
-### Steps taken
+## Steps taken
 
 1. Learning how to use a port and ssh to connect to git
 

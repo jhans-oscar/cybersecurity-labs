@@ -1,10 +1,10 @@
-## OverTheWire Bandit - Level 25
+# OverTheWire Bandit - Level 25
 
 **Goal:** Retrieve the password for level 26.
 
 The login shell for the user `bandit26` is not the usual `/bin/bash`. I needed to identify the shell and find a way to escape its restriction to read the password.
 
-### Steps taken
+## Steps taken
 
 1. Inspect the current directory on Bandit 25
 

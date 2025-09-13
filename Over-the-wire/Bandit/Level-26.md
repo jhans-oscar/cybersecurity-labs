@@ -1,10 +1,10 @@
-## OverTheWire Bandit - Level 26 (easy)
+# OverTheWire Bandit - Level 26 (easy)
 
 **Goal:** Retrieve the password for level 27.
 
 For this level, I needed to keep using the shell I got to open in the previous level.
 
-### Steps taken
+## Steps taken
 
 1. Getting a Shell
 
