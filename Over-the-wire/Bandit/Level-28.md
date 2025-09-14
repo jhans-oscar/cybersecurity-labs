@@ -36,6 +36,7 @@ for this level i need to keep using git commands to get the password.
     - `git checkout master` or `git checkout main`
 
 ### Key takeaways
+
 - Use `git log` to explore commit history.
 - Use `git checkout <commit-hash>` to view the repository at a specific commit.
 - Password for level 29: `4pT1t5DENaYuqnqvadYs1oE4QLCdjmJ7`
